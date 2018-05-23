@@ -1,6 +1,3 @@
-jcorvi
-salva
-josemaria
-vicky
-matias
-jgarr
+joe
+bill
+laura
