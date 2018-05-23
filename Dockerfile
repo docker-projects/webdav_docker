@@ -69,6 +69,6 @@ COPY groups /etc/apache2/groups
 #RUN service apache2 start
 
 #To Run the Container
-#docker run -it -p 8081:80 -v /home/jcorvi/apache_webdav/data/:/var/www/webdav/  apache_webdav
+#docker run -it -p 8081:80 -v /home/youruser/your_data_path/:/var/www/webdav/  apache_webdav
 
 
